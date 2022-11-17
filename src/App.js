@@ -1,9 +1,11 @@
 import './App.css';
-import { Login } from './components/LoginInputs/LoginInputs.js';
+//import { LoginInputs } from './components/LoginInputs/LoginInputs.js';
+//import { WaitressSelection } from './components/WaitressSelection/WaitressSelection.js'
+import { OrderMenu } from './components/OrderMenu/OrderMenu.js'
 
 function App() {
   return (
-      <Login />
+      <OrderMenu />
   );
 }
 
