@@ -51,7 +51,7 @@
     height: 8.4rem;
     margin-left: 2.5rem;
     font-size: 2.8rem;
-    background-color: hotpink;
+    /*background-color: hotpink;*/
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -81,7 +81,7 @@
 .product-list{
     height: 100%;
     width: 60%;
-    background-color: blueviolet;
+    /*background-color: blueviolet;*/
 }
 
 .ticket-with-order-div {
